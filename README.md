@@ -25,7 +25,7 @@ These days I work freelance and build anything from basic WordPress websites, to
 * DNS
 
 ## 📫 How to reach me
-If you wann get in touch reach out to me @
+If you want get in touch reach out to me @
 
 [hello@kalenmichael.com](mailto:hello@kalenmichael.com)
 
