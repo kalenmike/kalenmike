@@ -30,6 +30,5 @@ If you want get in touch reach out to me @
 [hello@kalenmichael.com](mailto:hello@kalenmichael.com)
 
 ## ⚡ Fun fact
-* I took a 3 month solo bicycle trip from London to Lisbon
-* Starting out in South Africa I've been travelling for the last 10 years
+Some fungi create zombies and then control their minds! 🧟
 
