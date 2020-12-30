@@ -3,7 +3,7 @@ Hola! Bonjour! Ciao! Nǐ hǎo! Konnichiwa! Hello!
 
 🔭 I’m currently working on a confidential project that is set to launch end of January 2021
 
-## 🌐 Some Recent Sites
+## 🌐 Recent Projects
 * [Vluks 3D](https://www.vluks3d.com)
 * [Meninas Madrid Gallery](https://bmd.fhm.mybluehost.me/)
 
