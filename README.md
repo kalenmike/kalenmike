@@ -1,7 +1,7 @@
 ### Welcome 😀
 Hola! Bonjour! Ciao! Nǐ hǎo! Konnichiwa! Hello!
 
-🔭 I’m currently working on a confidential project that is set to launch end of January 2021
+🔭 I’m currently working on some freelance projects.
 
 ## 🌐 Recent Projects
 * [Vluks 3D](https://www.vluks3d.com)
