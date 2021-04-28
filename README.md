@@ -1,7 +1,7 @@
 ### Welcome 😀
 Hola! Bonjour! Ciao! Nǐ hǎo! Konnichiwa! Hello!
 
-🔭 I’m currently working on some freelance projects.
+🔭 I’m currently working with Ultralytics on adapting YOLOv5 for web use.
 
 ## 🌐 Recent Projects
 * [Vluks 3D](https://www.vluks3d.com)
