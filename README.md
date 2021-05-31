@@ -4,8 +4,9 @@ Hola! Bonjour! Ciao! Nǐ hǎo! Konnichiwa! Hello!
 🔭 I’m currently working with Ultralytics on adapting YOLOv5 for web use.
 
 ## 🌐 Recent Projects
+* [Ultralytics](https://ultrlytics.com)
 * [Vluks 3D](https://www.vluks3d.com)
-* [Meninas Madrid Gallery](https://bmd.fhm.mybluehost.me/)
+* [Meninas Madrid Gallery](https://meninas.vluks3d.com/)
 
 ## 📜 Some History
 I started coding at around 12 years old. I was attracting by the hacking movies that were coming out at the time, One day my dad started up a computer sales store and I met one of his employees who got me started with Visual Basics 6. I was already somewhat of a poweruser when it came to Windows XP and VB6 game pretty fast, its not really a complicated language after all. This peaked my interest in C and I bought some books and started coding.
