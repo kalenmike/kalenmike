@@ -4,9 +4,9 @@ Hola! Bonjour! Ciao! Nǐ hǎo! Konnichiwa! Hello!
 🔭 I’m currently working with Ultralytics on adapting YOLOv5 for web use.
 
 ## 🌐 Recent Projects
+* [Ultralytics HUB](https://hub.ultralytics.com)
 * [Ultralytics](https://ultralytics.com)
 * [Vluks 3D](https://www.vluks3d.com)
-* [Meninas Madrid Gallery](https://meninas.vluks3d.com/)
 
 [Checkout my portfolio for more](https://kalenmichael.com/portfolio)
 
