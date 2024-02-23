@@ -19,6 +19,8 @@ I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytic
 
 ### 🛠️ Skills Overview:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,babel,bash,docker,firebase,flask,gcp,git,githubactions,kubernetes,laravel,linux,lua,mongodb,mysql,neovim,nginx,nodejs,php,py,sass,ts,vite,vue,wordpress)](https://skillicons.dev)
+
  - **Web Development Fundamentals:** Proficient in HTML/CSS, creating the foundation for modern, responsive web designs.
  - **Dynamic Scripting:** Skilled in JavaScript/TypeScript, bringing interactive and dynamic features to web applications.
  - **Front-End Frameworks:** Experienced in Vue.js (both Vue2 and Vue3), enhancing user interfaces with reactive components.
@@ -40,5 +42,3 @@ I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytic
 ### 🤝 Let's Connect:
 
 Feel free to explore my repositories, discuss potential collaborations, or chat about the latest tech trends. Thanks for visiting, and happy coding!
-
-[LinkedIn](https://www.linkedin.com/in/kalenmichael/)
