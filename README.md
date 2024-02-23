@@ -27,8 +27,8 @@ Thanks for stopping by, and happy coding!
 ### 🌟 Latest Project:
 
 <p align="center">
-    <a href="https://hub.ultralytics.com/signup"
-    <img src="https://github.com/ultralytics/assets/raw/main/im/ultralytics-hub.png" alt="Ultralytics HUB Banner" />
+    <a href="https://hub.ultralytics.com/signup">
+        <img src="https://github.com/ultralytics/assets/raw/main/im/ultralytics-hub.png" alt="Ultralytics HUB Banner" />
     </a>
 </p>
 
