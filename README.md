@@ -1,4 +1,8 @@
-### 👋 Hey there! 
+<p align="center">
+[![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</p>
+
+### 👋 Hi, I'm a developer. I make things on the internet work.
 
 Welcome to my GitHub page! My coding adventure began over a decade ago, driven by a fascination with technology and a natural affinity for problem-solving. Starting with Visual Basic 6 as a youngster, I quickly realized that programming was more than a hobby – it was my passion.
 
@@ -12,14 +16,17 @@ Welcome to my GitHub page! My coding adventure began over a decade ago, driven b
 
 Thanks for stopping by, and happy coding!
 
+### Current tech stack
+
+[![Current skill icons](https://skillicons.dev/icons?i=gcp,kubernetes,vue,ts,sass,py,mongodb,firebase,flask,js,html,css,bash,docker,firebase,flask,linux,lua,mongodb,nginx,nodejs)](https://skillicons.dev)
+
 ### 🌟 Latest Project:
 
 I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytics.com/). This project has been a great opportunity for me to engage with new technologies and tackle some interesting challenges. I'm really proud of what we've accomplished and I hope it can be a useful or inspiring resource for others.
 
-
 ### 🛠️ Skills Overview:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,babel,bash,docker,firebase,flask,gcp,git,githubactions,kubernetes,laravel,linux,lua,mongodb,mysql,neovim,nginx,nodejs,php,py,sass,ts,vite,vue,wordpress)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=js,html,css,babel,bash,git,githubactions,laravel,lua,mysql,neovim,php,vite,wordpress)](https://skillicons.dev)
 
  - **Web Development Fundamentals:** Proficient in HTML/CSS, creating the foundation for modern, responsive web designs.
  - **Dynamic Scripting:** Skilled in JavaScript/TypeScript, bringing interactive and dynamic features to web applications.
@@ -43,8 +50,7 @@ I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytic
 
 Feel free to explore my repositories, discuss potential collaborations, or chat about the latest tech trends. Thanks for visiting, and happy coding!
 
-[![Kalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalenmike&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalenmike&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p float="left">
+[![Public GitHub stats](https://github-readme-stats.vercel.app/api?username=kalenmike&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Public top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalenmike&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+</p>
