@@ -4,15 +4,15 @@
     </a>
 </p>
 
-## 👋 Hi, I'm a developer. I make things on the internet work.
+# 👋 Hi, I'm a developer. I make things on the internet work.
 
-### My Current tech stack
+## My Current tech stack
 
 [![Current skill icons](https://skillicons.dev/icons?i=gcp,kubernetes,vue,ts,sass,py,mongodb,flask,docker,linux,nginx,nodejs)](https://skillicons.dev)
 
 Thanks for dropping by! My coding adventure began over a decade ago, driven by a fascination with technology and a natural affinity for problem-solving. Starting with Visual Basic 6 as a youngster, I quickly realized that programming was more than a hobby – it was my passion.
 
-### 😊 About Me
+## 😊 About Me
 
 🚀 My journey took a significant leap forward when I began exploring Python. This led me to develop a GUI application that integrated with a company CRM, employing a REST API for data handling and visualization. This project was not only a technical milestone but also taught me the importance of data backup the hard way!
 
@@ -24,7 +24,7 @@ Thanks for dropping by! My coding adventure began over a decade ago, driven by a
 
 Thanks for stopping by, and happy coding!
 
-### 🌟 Latest Project:
+## 🌟 Latest Project:
 
 <p align="center">
     <a href="https://hub.ultralytics.com/signup">
@@ -34,11 +34,11 @@ Thanks for stopping by, and happy coding!
 
 I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytics.com/signup). This project has been a great opportunity for me to engage with new technologies and tackle some interesting challenges. I'm really proud of what we've accomplished and I hope it can be a useful or inspiring resource for others.
 
-### 🛠️ Skills Overview:
+## 🛠️ Skills Overview:
 
 [![Other Skills](https://skillicons.dev/icons?i=js,html,css,firebase,babel,bash,git,githubactions,laravel,lua,mysql,neovim,php,vite,wordpress)](https://skillicons.dev)
 
-#### Web Development Expertise
+### Web Development Expertise
 
 - Fundamentals: Proficient in HTML/CSS for responsive web design.
 - Scripting: Skilled in JavaScript/TypeScript for dynamic web applications.
@@ -46,31 +46,31 @@ I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytic
 - Back-End Development: Knowledgeable in PHP for server-side logic.
 - Database Management: Competent in SQL (MySQL) and NoSQL (MongoDB) for data handling.
 
-#### Programming and Scripting
+### Programming and Scripting
 
 - Python: Versatile use in web development and scripting.
 - Bash Scripting: Automating tasks in Unix/Linux environments.
 
-#### Cloud and System Administration
+### Cloud and System Administration
 
 - Cloud Services: Skilled in Firebase and Google Cloud Platform (GCP).
 - System Administration: Proficient in SSH for secure remote server management.
 
-#### Advanced Development Techniques
+### Advanced Development Techniques
 
 - Containerization and Orchestration: Experienced with Kubernetes.
 - Network Management: Knowledgeable in DNS management.
 - Comprehensive Development: Integrating skills for complete web solutions.
 - Version Control: Proficient in Git for team collaboration.
 
-#### Software Development Processes
+### Software Development Processes
 
 - API Development: Building and integrating RESTful APIs.
 - Testing and TDD: Focused on code quality and reliability.
 - CI/CD Pipelines: Implementing continuous integration and deployment.
 - Agile Methodologies: Adaptive planning and rapid delivery in team environments.
 
-### 🤝 Let's Connect:
+## 🤝 Let's Connect:
 
 Feel free to explore my repositories, discuss potential collaborations, or chat about the latest tech trends. Thanks for visiting, and happy coding!
 
