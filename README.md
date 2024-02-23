@@ -8,7 +8,7 @@
 
 ### My Current tech stack
 
-[![Current skill icons](https://skillicons.dev/icons?i=gcp,kubernetes,vue,ts,sass,py,mongodb,firebase,flask,js,html,css,bash,docker,firebase,flask,linux,lua,mongodb,nginx,nodejs)](https://skillicons.dev)
+[![Current skill icons](https://skillicons.dev/icons?i=gcp,kubernetes,vue,ts,sass,py,mongodb,flask,docker,linux,mongodb,nginx,nodejs)](https://skillicons.dev)
 
 Thanks for dropping by! My coding adventure began over a decade ago, driven by a fascination with technology and a natural affinity for problem-solving. Starting with Visual Basic 6 as a youngster, I quickly realized that programming was more than a hobby – it was my passion.
 
@@ -30,7 +30,7 @@ I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytic
 
 ### 🛠️ Skills Overview:
 
-[![Other Skills](https://skillicons.dev/icons?i=js,html,css,babel,bash,git,githubactions,laravel,lua,mysql,neovim,php,vite,wordpress)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=js,html,css,firebase,babel,bash,git,githubactions,laravel,lua,mysql,neovim,php,vite,wordpress)](https://skillicons.dev)
 
 #### Web Development Expertise
 
