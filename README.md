@@ -46,3 +46,5 @@ Feel free to explore my repositories, discuss potential collaborations, or chat 
 [![Kalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalenmike&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalenmike&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
