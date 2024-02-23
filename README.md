@@ -1,5 +1,7 @@
 <p align="center">
-[![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" alt="Daily Quote" />
+    </a>
 </p>
 
 ### 👋 Hi, I'm a developer. I make things on the internet work.
