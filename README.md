@@ -26,7 +26,12 @@ Thanks for stopping by, and happy coding!
 
 ### 🌟 Latest Project:
 
-I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytics.com/). This project has been a great opportunity for me to engage with new technologies and tackle some interesting challenges. I'm really proud of what we've accomplished and I hope it can be a useful or inspiring resource for others.
+<p align="center">
+    <a href="https://hub.ultralytics.com/signup"
+    <img src="https://github.com/ultralytics/assets/raw/main/im/ultralytics-hub.png" alt="Ultralytics HUB Banner" />
+</p>
+
+I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytics.com/signup). This project has been a great opportunity for me to engage with new technologies and tackle some interesting challenges. I'm really proud of what we've accomplished and I hope it can be a useful or inspiring resource for others.
 
 ### 🛠️ Skills Overview:
 
