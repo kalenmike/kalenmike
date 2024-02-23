@@ -52,9 +52,13 @@ I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytic
 
 Feel free to explore my repositories, discuss potential collaborations, or chat about the latest tech trends. Thanks for visiting, and happy coding!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
     <p float="left">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=kalenmike&show_icons=true&theme=dark#gh-dark-mode-only" alt="Public GitHub stats" height="200"/>
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalenmike&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" alt="Public top languages" height="200"/>
+        </a>
     </p>
-</a>
+</p>
