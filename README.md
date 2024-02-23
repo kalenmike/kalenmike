@@ -8,7 +8,7 @@
 
 ### My Current tech stack
 
-[![Current skill icons](https://skillicons.dev/icons?i=gcp,kubernetes,vue,ts,sass,py,mongodb,flask,docker,linux,mongodb,nginx,nodejs)](https://skillicons.dev)
+[![Current skill icons](https://skillicons.dev/icons?i=gcp,kubernetes,vue,ts,sass,py,mongodb,flask,docker,linux,nginx,nodejs)](https://skillicons.dev)
 
 Thanks for dropping by! My coding adventure began over a decade ago, driven by a fascination with technology and a natural affinity for problem-solving. Starting with Visual Basic 6 as a youngster, I quickly realized that programming was more than a hobby – it was my passion.
 
