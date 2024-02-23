@@ -31,8 +31,6 @@ Thanks for dropping by! My coding adventure began over a decade ago, driven by a
 
 💡 As a tech enthusiast and a lifelong learner, I'm constantly exploring new technologies and methodologies to keep my skills sharp and relevant. I believe in the power of teamwork and the value of sharing knowledge, so feel free to reach out for collaborations or tech discussions.
 
-Thanks for stopping by, and happy coding!
-
 ## 🌟 Latest Project:
 
 <p align="center">
