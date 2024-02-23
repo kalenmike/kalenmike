@@ -52,7 +52,9 @@ I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytic
 
 Feel free to explore my repositories, discuss potential collaborations, or chat about the latest tech trends. Thanks for visiting, and happy coding!
 
-<p float="left">
-[![Public GitHub stats](https://github-readme-stats.vercel.app/api?username=kalenmike&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Public top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalenmike&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <p float="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=kalenmike&show_icons=true&theme=dark#gh-dark-mode-only" alt="Public GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalenmike&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" alt="Public top languages" />
+    </p>
+</a>
