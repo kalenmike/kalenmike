@@ -11,7 +11,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=kalenmike&custom_title=Public%20Stats&show_icons=true&theme=dark#gh-dark-mode-only" alt="Public GitHub stats" height="180"/>
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalenmike&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" alt="Public top languages" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalenmike&custom_title=Public%20Languages&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" alt="Public top languages" height="180"/>
         </a>
 </p>
 
