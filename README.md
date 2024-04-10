@@ -31,16 +31,6 @@ Thanks for dropping by! My coding adventure began over two decades ago, driven b
 
 💡 As a tech enthusiast and a lifelong learner, I'm constantly exploring new technologies and methodologies to keep my skills sharp and relevant. I believe in the power of teamwork and the value of sharing knowledge, so feel free to reach out for collaborations or tech discussions.
 
-## 🌟 Latest Project:
-
-<p align="center">
-    <a href="https://hub.ultralytics.com/signup">
-        <img src="https://github.com/ultralytics/assets/raw/main/im/ultralytics-hub.png" alt="Ultralytics HUB Banner" />
-    </a>
-</p>
-
-I'm excited to share my latest project, [Ultralytics HUB](https://hub.ultralytics.com/signup). This project has been a great opportunity for me to engage with new technologies and tackle some interesting challenges. I'm really proud of what we've accomplished and I hope it can be a useful or inspiring resource for others.
-
 ## 🛠️ Skills Overview:
 
 [![Other Skills](https://skillicons.dev/icons?i=js,html,css,firebase,babel,bash,git,githubactions,laravel,lua,mysql,neovim,php,vite,wordpress)](https://skillicons.dev)
