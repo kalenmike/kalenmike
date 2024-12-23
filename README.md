@@ -27,7 +27,7 @@ Thanks for dropping by! My coding adventure began over two decades ago, driven b
 
 🔧 Transitioning from individual programming projects, I ventured into the realm of PHP and MySQL. Here, I developed a comprehensive sales management application for an events-based business. This experience honed my skills in creating complex, real-world solutions.
 
-🌐 Today, my career has evolved into a leadership role at Ultralytics. Here, I manage a talented team of developers and oversee our DevOps practices. My role involves ensuring that our development processes are efficient, innovative, and aligned with the latest industry standards. I'm dedicated to fostering a collaborative environment where creativity and technical excellence thrive.
+🌐 Today, my career is focused on creating innovative web applications for the holistic and wellness sector. My work aims to empower individuals to achieve balance and overcome the challenges of the hustle culture. I’m passionate about leveraging technology to promote mindfulness and wellbeing, fostering tools that help people live more intentional and fulfilling lives.
 
 💡 As a tech enthusiast and a lifelong learner, I'm constantly exploring new technologies and methodologies to keep my skills sharp and relevant. I believe in the power of teamwork and the value of sharing knowledge, so feel free to reach out for collaborations or tech discussions.
 
