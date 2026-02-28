@@ -1,8 +1,8 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://kalenmichael.com/images/km-logo-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://kalenmichael.com/images/km-logo-dark.svg">
-  <img alt="Kalen Michael" src="https://kalenmichael.com/images/km-logo-dark.svg" width="400">
+  <source media="(prefers-color-scheme: light)" srcset="https://kalenmichael.com/images/km-logo-grey.svg">
+  <img alt="Kalen Michael" src="https://kalenmichael.com/images/km-logo-grey.svg" width="400">
 </picture>
 </p>
 
