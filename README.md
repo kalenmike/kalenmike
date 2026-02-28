@@ -31,7 +31,7 @@ From **Visual Basic 6** as a kid to building scalable **Cloud Native** apps toda
 |**Learning**|![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)|
 
 ## 🏗️ Current Projects & Focus
-- [Peek](https://github.com/kalenmike/kalenmike/peek): A high-performance directory browser built in Assembly.
+- [Peek](https://github.com/kalenmike/peek): A high-performance directory browser built in Assembly.
 
 - [Consulting Engagement](https://kalenmichael.com/): Currently advising.
 
