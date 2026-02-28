@@ -1,73 +1,75 @@
+
 <p align="center">
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" alt="Daily Quote" />
-    </a>
+<img src="https://kalenmichael.com/images/kalen-michael.png" alt="Kalen Michael" width="200"/>
 </p>
 
-# 👋 Hi, I'm a developer. I make things on the internet work.
+# 👋 Hi, I'm a Kalen Michael
+**Software Engineer & Technical Consultant**  
+20+ years of turning complex problems into scalable digital solutions.
 
-<p float="left">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=kalenmike&custom_title=Public%20Stats&show_icons=true&theme=dark#gh-dark-mode-only" alt="Public GitHub stats" height="180"/>
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalenmike&custom_title=Public%20Languages&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" alt="Public top languages" height="180"/>
-        </a>
+## 🚀 The Journey
+
+From **Visual Basic 6** as a kid to building scalable **Cloud Native** apps today, I’ve spent 20 years turning "how does this work?" into "here is the solution." 
+
+**Currently**: Architecting **AI-driven solutions** and high-performance cloud infrastructure.  
+**Focus**: **AI/ML Integration**, Python, Nuxt.js (Vue 3), and Kubernetes.  
+**Philosophy**: Technology should solve complex problems with elegant, automated simplicity.  
+
+## 🛠️ Tech Stack & Toolbox
+
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Infrastructure** | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Systems** | ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white) |
+| | |
+|**Learning**|![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)|
+
+## 🏗️ Current Projects & Focus
+- [Peek](https://github.com/kalenmike/kalenmike/peek): A high-performance directory browser built in Assembly.
+
+- [Consulting Engagement](https://kalenmichael.com/): Currently advising.
+
+## 🎨 Language Palette
+
+### ⚙️ Systems Engineering
+Low-level, high-performance logic and memory management.  
+`Assembly (x86/x64)` • `C` • `Rust` • `SQL`
+
+### 🖥️ Software & Application Logic
+Full-stack architecture and enterprise-grade frameworks.  
+`Python` • `PHP (Laravel)` • `TypeScript` • `VB6 (Legacy Expert)`
+
+### ⚡ Scripting & Intelligence
+AI integration, automation, and rapid prototyping.  
+`AI/ML Orchestration` • `Node.js` • `Bash` • `Lua`
+
+## 🤝 Let's Connect
+* **Collaborations:** I'm always open to discussing tech for wellness and open-source projects.
+* **LinkedIn:** [@kalenmichael](https://www.linkedin.com/in/kalenmichael/)
+
+[![I use nvim, btw](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)  
+_I use nvim, btw_
+---
+
+<p align="center">
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" alt="Daily Quote" />
+</a>
 </p>
 
-## My Current tech stack
+---
 
-[![Current skill icons](https://skillicons.dev/icons?i=gcp,kubernetes,vue,ts,sass,py,mongodb,flask,docker,linux,nginx,nodejs)](https://skillicons.dev)
+<p align="center">
 
-Thanks for dropping by! My coding adventure began over two decades ago, driven by a fascination with technology and a natural affinity for problem-solving. Starting with Visual Basic 6 as a youngster, I quickly realized that programming was more than a hobby – it was my passion.
+</p>
 
-## 😊 About Me
+[![Current skill icons](https://skillicons.dev/icons?i=gcp,kubernetes,vue,ts,tailwind,py,mongodb,flask,docker,linux,nginx,nodejs,rust,c)](https://skillicons.dev)
 
-🚀 My journey took a significant leap forward when I began exploring Python. This led me to develop a GUI application that integrated with a company CRM, employing a REST API for data handling and visualization. This project was not only a technical milestone but also taught me the importance of data backup the hard way!
 
-🔧 Transitioning from individual programming projects, I ventured into the realm of PHP and MySQL. Here, I developed a comprehensive sales management application for an events-based business. This experience honed my skills in creating complex, real-world solutions.
 
-🌐 Today, my career is focused on creating innovative web applications for the holistic and wellness sector. My work aims to empower individuals to achieve balance and overcome the challenges of the hustle culture. I’m passionate about leveraging technology to promote mindfulness and wellbeing, fostering tools that help people live more intentional and fulfilling lives.
 
-💡 As a tech enthusiast and a lifelong learner, I'm constantly exploring new technologies and methodologies to keep my skills sharp and relevant. I believe in the power of teamwork and the value of sharing knowledge, so feel free to reach out for collaborations or tech discussions.
 
-## 🛠️ Skills Overview:
-
-[![Other Skills](https://skillicons.dev/icons?i=js,html,css,firebase,babel,bash,git,githubactions,laravel,lua,mysql,neovim,php,vite,wordpress)](https://skillicons.dev)
-
-### Web Development Expertise
-
-- Fundamentals: Proficient in HTML/CSS for responsive web design.
-- Scripting: Skilled in JavaScript/TypeScript for dynamic web applications.
-- Front-End Frameworks: Experienced in Vue.js (Vue2 and Vue3) for enhanced user interfaces.
-- Back-End Development: Knowledgeable in PHP for server-side logic.
-- Database Management: Competent in SQL (MySQL) and NoSQL (MongoDB) for data handling.
-
-### Programming and Scripting
-
-- Python: Versatile use in web development and scripting.
-- Bash Scripting: Automating tasks in Unix/Linux environments.
-
-### Cloud and System Administration
-
-- Cloud Services: Skilled in Firebase and Google Cloud Platform (GCP).
-- System Administration: Proficient in SSH for secure remote server management.
-
-### Advanced Development Techniques
-
-- Containerization and Orchestration: Experienced with Kubernetes.
-- Network Management: Knowledgeable in DNS management.
-- Comprehensive Development: Integrating skills for complete web solutions.
-- Version Control: Proficient in Git for team collaboration.
-
-### Software Development Processes
-
-- API Development: Building and integrating RESTful APIs.
-- Testing and TDD: Focused on code quality and reliability.
-- CI/CD Pipelines: Implementing continuous integration and deployment.
-- Agile Methodologies: Adaptive planning and rapid delivery in team environments.
-
-## 🤝 Let's Connect:
-
-Feel free to explore my repositories, discuss potential collaborations, or chat about the latest tech trends. Thanks for visiting, and happy coding!
 
