@@ -1,6 +1,9 @@
-
 <p align="center">
-<img src="https://kalenmichael.com/images/kalen-michael.png" alt="Kalen Michael" width="200"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://kalenmichael.com/images/km-logo-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://kalenmichael.com/images/km-logo-dark.svg">
+  <img alt="Kalen Michael" src="https://kalenmichael.com/images/km-logo-dark.svg" width="400">
+</picture>
 </p>
 
 # 👋 Hi, I'm a Kalen Michael
