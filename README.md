@@ -32,7 +32,7 @@ From **Visual Basic 6** as a kid to building scalable **Cloud Native** apps toda
 
 ## 🏗️ Current Projects & Focus
 - [Peek](https://github.com/kalenmike/peek): A high-performance directory browser built in Assembly.
-- [Stutterd](https://github.com/kalenmike/stutterd): A speach to text interface for any keyboard input.
+- [Stutterd](https://github.com/kalenmike/stutterd): A speech to text interface for any keyboard input.
 
 - [Consulting Engagement](https://kalenmichael.com/): Currently advising.
 
